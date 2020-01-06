@@ -53,3 +53,4 @@ usage: Testbed
 
 ## Best MongoDB Best Practices Not Demonstrated
 * Strictly speaking, one might consider using multi-document Transactions when deleting trees and associated links
+* Indexes should NEVER be created from application code - done here for convenience
