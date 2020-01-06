@@ -11,7 +11,8 @@ Demonstration Java code to implement Opus atop MongoDB, using three primary coll
 usage: Testbed
  -c,--check            Run sanity checks on Opus tree
  -d,--delete <arg>     Remove any tree or sub-tree
- -g,--generate <arg>   Generate N Opus trees from scratch (default 20000)
+ -g,--generate <arg>   Generate N Opus trees from scratch (default 20000) 
+                       Note: code currently performs Check after every Generate 
  -h,--help             Show Help
  -r,--ID <arg>         Retrieve/print tree or sub-tree, given id
  -u,--uri <arg>        Connection String (URI) (default
