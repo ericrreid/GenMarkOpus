@@ -48,6 +48,7 @@ usage: Testbed
 * Use of _id for unique IDs for all three collections - saves space and indexes
 * Not using null values - leave field out and use $exists instead - saves space
 * Proper indexing
+* Bulk inserts/updates for data generation
 
 ## Best MongoDB Best Practices Not Demonstrated
 * Strictly speaking, one might consider using multi-document Transactions when deleting trees and associated links
