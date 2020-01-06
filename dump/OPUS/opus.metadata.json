@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"OPUS.opus"},{"v":{"$numberInt":"2"},"key":{"functions":{"$numberInt":"1"}},"name":"functions_1","ns":"OPUS.opus"}],"uuid":"6aea05c6ac6044468dd6cd54612de42a"}
