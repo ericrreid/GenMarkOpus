@@ -1,5 +1,5 @@
 # GenMarkOpus
-Demonstration Java code to implement Opus atop MongoDB, using three primary collections and two-way linkages.
+Demonstration Java code to implement Opus atop MongoDB, using three primary collections and two-way linkages. opustestbed.jar is provided as a pre-compiled .jar file with all needed libraries.
 
 ## Dependencies
 * To build: Java 8 or later JDK, internet access, Maven
@@ -51,5 +51,3 @@ usage: Testbed
 
 ## Best MongoDB Best Practices Not Demonstrated
 * Strictly speaking, one might consider using multi-document Transactions when deleting trees and associated links
-
-## Other Notes
