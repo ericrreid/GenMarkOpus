@@ -8,6 +8,7 @@ Demonstration Java code to implement Opus atop MongoDB, using three primary coll
 ## Usage
 
 ```
+# java -cp opusTestbed.jar com.mongodb.ereid.opustestbed.Testbed <args>
 usage: Testbed
  -c,--check            Run sanity checks on Opus tree
  -d,--delete <arg>     Remove any tree or sub-tree
